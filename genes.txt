@@ -1,0 +1,15 @@
+
+
+# Day 15 - Bash Basics
+
+## Commands Learned
+
+pwd  -> shows current directory
+
+ls   -> lists files and folders
+
+mkdir bioinformatics -> creates a folder
+
+cd bioinformatics -> enters the folder
+
+cat file.txt -> displays file contents
