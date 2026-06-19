@@ -19,3 +19,7 @@ touch--> to create a file
 echo → Write text into file 
 
 mv -> to rename/move file 
+
+head → first lines
+
+tail → last lines
