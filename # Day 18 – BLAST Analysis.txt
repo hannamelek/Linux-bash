@@ -18,5 +18,5 @@ NCBI BLASTp (blast.ncbi.nlm.nih.gov)
 
 The sequence corresponds to a conserved region of the p53 tumor suppressor protein. Multiple hits across species indicate evolutionary conservation of this functional domain.
 
-## Conclusion
+## CONCLUSION
 Sequence is confidently assigned to TP53 protein family.
