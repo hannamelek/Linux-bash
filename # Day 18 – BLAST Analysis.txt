@@ -16,7 +16,8 @@ NCBI BLASTp (blast.ncbi.nlm.nih.gov)
 
 # Interpretation
 
-The sequence corresponds to a conserved region of the p53 tumor suppressor protein. Multiple hits across species indicate evolutionary conservation of this functional domain.
+The sequence corresponds to a conserved N-terminal region of p53, involved in transcriptional activation. High conservation explains multiple identical hits across species.
 
 ## CONCLUSION
 Sequence is confidently assigned to TP53 protein family.
+
