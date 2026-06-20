@@ -1,0 +1,20 @@
+# Day 18 – BLAST Analysis
+
+# Query Sequence
+MEEPQSDPSVEPPLSQETFSDLWKLLPEN
+
+# Tool Used
+NCBI BLASTp (blast.ncbi.nlm.nih.gov)
+
+# Result Summary
+- Identified protein: TP53 (tumor suppressor protein)
+- Organism: Homo sapiens
+- Identity: 100%
+- Query coverage: 100%
+- E-value: 6e-26
+
+# Interpretation
+The sequence corresponds to a conserved region of the p53 tumor suppressor protein. Multiple hits across species indicate evolutionary conservation of this functional domain.
+
+### Conclusion
+Sequence is confidently assigned to TP53 protein family.
