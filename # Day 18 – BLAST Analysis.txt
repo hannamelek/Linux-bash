@@ -7,6 +7,7 @@ MEEPQSDPSVEPPLSQETFSDLWKLLPEN
 NCBI BLASTp (blast.ncbi.nlm.nih.gov)
 
 # Result Summary
+
 - Identified protein: TP53 (tumor suppressor protein)
 - Organism: Homo sapiens
 - Identity: 100%
@@ -14,6 +15,7 @@ NCBI BLASTp (blast.ncbi.nlm.nih.gov)
 - E-value: 6e-26
 
 # Interpretation
+
 The sequence corresponds to a conserved region of the p53 tumor suppressor protein. Multiple hits across species indicate evolutionary conservation of this functional domain.
 
 ## Conclusion
