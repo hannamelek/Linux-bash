@@ -1,0 +1,42 @@
+##DAY 19 Biopython NCBIWWW 
+
+Sequence
+    ↓
+NCBIWWW.qblast()
+    ↓
+NCBI server
+    ↓
+XML file
+    ↓
+NCBIXML parser
+    ↓
+Top 5 hits + E-values
+
+
+NCBIWWW.qblast()
+
+Runs BLAST
+
+NCBIXML.read()
+
+Reads BLAST output
+
+alignment.title
+
+Protein name
+
+hsp.expect
+
+E-value
+
+
+
+##simple way to understand
+
+
+for every protein found:
+    for every matching region:
+        print protein name
+        print e-value
+
+        stop after 5 results
