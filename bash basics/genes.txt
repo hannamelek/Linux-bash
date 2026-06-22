@@ -14,7 +14,7 @@ cd bioinformatics -> enters the folder
 
 cat file.txt -> displays file contents
 
-touch--> to create a file
+touch --> to create a file
 
 echo → Write text into file 
 
