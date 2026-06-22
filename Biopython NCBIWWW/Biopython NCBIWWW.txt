@@ -30,7 +30,6 @@ hsp.expect
 E-value
 
 
-
 ##simple way to understand
 
 
