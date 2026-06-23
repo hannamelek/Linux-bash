@@ -9,7 +9,7 @@ from Bio.Seq import Seq
 
 # In[2]:
 
-
+#DNA motif finding
 dna = "GATATATGCATATACTT"
 motif = "ATAT"
 
@@ -24,7 +24,7 @@ for i in range(len(dna)-len(motif)+1):
 
 # In[4]:
 
-
+#SUBS EXAMPLE 2
 dna = "ACGTACGTACGT"
 motif = "ACG"
 
@@ -39,7 +39,7 @@ for i in range(len(dna)-len(motif)+1):
 
 # In[7]:
 
-
+#SUBS EXAMPLE 3
 dna = "ATATATAT"
 motif = "ATA"
 
