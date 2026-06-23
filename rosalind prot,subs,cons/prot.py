@@ -9,6 +9,7 @@ from Bio.Seq import Seq
 
 # In[2]:
 
+#Protein translation from RNA sequence
 
 rna = Seq("AUGGCCUUU")
 protein = rna.translate()
@@ -22,7 +23,7 @@ print(protein)
 
 # In[12]:
 
-
+#PROT EXAMPLE 2
 rna = Seq("AUGGCCAAA")
 protein = rna.translate()
 
@@ -35,7 +36,7 @@ print(protein)
 
 # In[15]:
 
-
+#PROT EXAMPLE 3
 rna = Seq("AUGGCUUAAUGG")
 protein = rna.translate()
 
