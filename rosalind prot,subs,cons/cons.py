@@ -9,7 +9,7 @@ from Bio.Seq import Seq
 
 # In[2]:
 
-
+#Consensus sequence from DNA sequences
 seqs = [
 "ATCCA",
 "ATGCA",
@@ -36,7 +36,7 @@ print(consensus)
 
 # In[7]:
 
-
+#CONS EXAMPLE 2
 seqs = [
 "GCTA",
 "GCAA",
