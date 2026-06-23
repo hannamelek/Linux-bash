@@ -9,7 +9,7 @@ from Bio.Seq import Seq
 
 # In[5]:
 
-
+#PROT+SUBS
 rna = Seq("AUGGCCAUGGCCUAA")
 protein = rna.translate()
 print(protein)
@@ -28,7 +28,7 @@ for i in range(len(protein)-len(motif)+1):
 
 # In[7]:
 
-
+#CONS+SUBS
 from Bio.Seq import Seq
 
 
