@@ -36,7 +36,7 @@ print(protein)
 
 # In[15]:
 
-#PROT EXAMPLE 3
+#PROT EXAMPLE 3 stop codon
 rna = Seq("AUGGCUUAAUGG")
 protein = rna.translate()
 
