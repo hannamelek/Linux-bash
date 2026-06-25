@@ -4,21 +4,24 @@
 ## Days 15–20 — Summary of Topics Covered
 
 ### Bash & Linux Basics (Days 15–17)
-      - Navigated and managed files using Linux commands (pwd, cd, ls, mkdir, touch, cp, mv, cat, head, tail)
-      - Processed biological text data using grep, wc, sort, uniq, and pipes
-      - Automated tasks with Bash scripting (variables, executable scripts, FASTA analysis, GC calculation)
+
+- Navigated and managed files using Linux commands (pwd, cd, ls, mkdir, touch, cp, mv, cat, head, tail)
+- Processed biological text data using grep, wc, sort, uniq, and pipes
+- Automated tasks with Bash scripting (variables, executable scripts, FASTA analysis, GC calculation)
 
 ### BLAST & Sequence Analysis (Days 18–19)
-      - Performed BLAST searches via NCBI web interface and Biopython
-      - Interpreted key results (E-value, identity, coverage, score)
-      - Automated BLAST queries using Biopython (NCBIWWW, NCBIXML)
-      - Parsed XML output to extract top sequence hits
+
+- Performed BLAST searches via NCBI web interface and Biopython
+- Interpreted key results (E-value, identity, coverage, score)
+- Automated BLAST queries using Biopython (NCBIWWW, NCBIXML)
+- Parsed XML output to extract top sequence hits
 
 
 ### Rosalind Problems (Day 20)
-     - Translated RNA sequences into proteins (PROT)
-     - Identified DNA motifs (SUBS)
-     - Generated consensus sequences from aligned DNA (CONS)
+
+- Translated RNA sequences into proteins (PROT)
+- Identified DNA motifs (SUBS)
+- Generated consensus sequences from aligned DNA (CONS)
 
 ## Key Takeaway
 
