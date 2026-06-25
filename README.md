@@ -61,7 +61,7 @@ Built a strong foundation in bioinformatics by combining Linux command-line skil
 
 ## Goal
 
-Learn the fundamentals of Linux and Bash for bioinformatics, including file navigation, text processing, and basic task automation through scripting.
+Learn the fundamentals of Linux and Bash for bioinformatics, including file navigation, text processing, and basic task automation through scripting and to learn fundamental sequence analysis techniques including sequence similarity searching, automated database querying, protein translation, motif discovery, and consensus sequence generation.
 
 ---
 
