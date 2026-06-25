@@ -1,148 +1,30 @@
 # Week 3: Linux, Bash Basics & Sequence Analysis and Rosalind Challenges
 
-## Topics Covered
 
-## Day 15 — Bash Basics
+## Days 15–20 — Summary of Topics Covered
 
-- Linux Terminal
-- Navigating directories (`pwd`, `cd`)
-- Listing files (`ls`)
-- Creating directories (`mkdir`)
-- Creating files (`touch`)
-- Viewing file contents (`cat`)
-- Copying files (`cp`)
-- Renaming/moving files (`mv`)
-- Viewing file beginnings and endings (`head`, `tail`)
+### Bash & Linux Basics (Days 15–17)
+- Navigated and managed files using Linux commands (pwd, cd, ls, mkdir, touch, cp, mv, cat, head, tail)
+- Processed biological text data using grep, wc, sort, uniq, and pipes
+- Automated tasks with Bash scripting (variables, executable scripts, FASTA analysis, GC calculation)
 
-### Exercise
-Practiced file and directory operations entirely from the terminal.
+### BLAST & Sequence Analysis (Days 18–19)
+- Performed BLAST searches via NCBI web interface and Biopython
+- Interpreted key results (E-value, identity, coverage, score)
+- Automated BLAST queries using Biopython (NCBIWWW, NCBIXML)
+- Parsed XML output to extract top sequence hits
 
-### Key Takeaway
-Learned how to navigate and manage files using basic Linux commands.
 
----
+### Rosalind Problems (Day 20)
+- Translated RNA sequences into proteins (PROT)
+- Identified DNA motifs (SUBS)
+- Generated consensus sequences from aligned DNA (CONS)
 
-## Day 16 — Text Processing in Linux
+## Key Takeaway
 
-- Searching text with `grep`
-- Counting with `wc`
-- Sorting data with `sort`
-- Removing duplicates with `uniq`
-- Using pipes (`|`) to combine commands
 
-### Exercise
-Counted the number of sequences in a FASTA file:
+Built a strong foundation in bioinformatics by combining Linux command-line skills, Bash scripting, and Python automation. Gained experience in sequence analysis through BLAST, motif detection, translation, and consensus building, while learning to interpret biological data and automate workflows efficiently.
 
-```bash
-grep ">" sample.fasta | wc -l
-```
-
-### Key Takeaway
-Learned to filter, count, and process biological sequence data directly from the command line.
-
----
-
-## Day 17 — Bash Scripting
-
-- What Bash scripts are
-- Variables in Bash
-- Automating repetitive tasks
-- Making scripts executable (`chmod +x`)
-- Running scripts (`./script.sh`)
-
-### Exercise
-Created a script that:
-- Counts sequences in a FASTA file
-- Calculates GC percentage
-
-### Key Takeaway
-Learned how to automate sequence analysis tasks using Bash scripts.
-
----
-
-## Day 18 – Introduction to BLAST
-
-- What BLAST (Basic Local Alignment Search Tool) does
-- Types of BLAST searches
-- Running BLAST using the NCBI web interface
-- Understanding BLAST output
-
-### Activities
-- Performed a BLASTp search using a sample protein sequence
-- Interpreted key output metrics:
-  - Max Score
-  - Query Coverage
-  - Percent Identity
-  - E-value
-- Identified the top matching protein sequence
-
-### Key Concepts Learned
-- Sequence similarity searching
-- Homology detection
-- Significance of E-values
-- Interpreting biological matches
-
----
-
-## Day 19 – BLAST with Biopython
-
-### Topics Covered
-- Automating BLAST searches using Biopython
-- Using the NCBIWWW module
-- Parsing BLAST XML results
-
-### Activities
-- Submitted a protein sequence programmatically
-- Saved BLAST output as XML
-- Parsed results using NCBIXML
-- Extracted the top 5 hits and their E-values
-
-### Key Concepts Learned
-- Programmatic access to NCBI services
-- Working with XML output
-- Parsing biological data
-- Automating sequence analysis workflows
-
-### Tools Used
-- Biopython
-- NCBIWWW
-- NCBIXML
-
----
-
-## Day 20 – Rosalind Problems: PROT, SUBS, CONS
-
-### PROT – Protein Translation
-Converted RNA sequences into protein sequences using the genetic code.
-
-**Concepts:**
-- Codons
-- Translation
-- Amino acids
-- Stop codons
-
-### SUBS – Motif Finding
-Identified all occurrences of a motif within a DNA sequence.
-
-**Concepts:**
-- Pattern matching
-- Sequence searching
-- Biological motifs
-
-### CONS – Consensus Sequence
-Generated a consensus sequence from multiple aligned DNA sequences.
-
-**Concepts:**
-- Sequence conservation
-- Profile matrices
-- Consensus sequences
-
-### Key Concepts Learned
-- Translation of RNA to protein
-- Motif discovery
-- Sequence conservation analysis
-- Basic bioinformatics problem-solving
-  
 ---
 
 ## Skills Developed
@@ -191,15 +73,7 @@ Learn the fundamentals of Linux and Bash for bioinformatics, including file navi
 
 ## Outcome
 
-By the end of Days 18–20, I was able to:
-
-- Run and interpret BLAST searches using the NCBI web interface.
-- Perform BLAST searches programmatically using Biopython.
-- Extract and analyze significant sequence matches and E-values.
-- Translate RNA sequences into proteins.
-- Identify motifs within DNA and protein sequences.
-- Generate consensus sequences from multiple aligned sequences.
-- Strengthen Python programming skills through practical bioinformatics applications.
+By Days 18–20, I learned to run and interpret BLAST searches (web and Biopython), analyze sequence matches and E-values, translate RNA to proteins, identify DNA/protein motifs, build consensus sequences from alignments, and improve Python skills through bioinformatics tasks.
 
 ---
 ## Author
