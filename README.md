@@ -200,3 +200,10 @@ By the end of Days 18–20, I was able to:
 - Identify motifs within DNA and protein sequences.
 - Generate consensus sequences from multiple aligned sequences.
 - Strengthen Python programming skills through practical bioinformatics applications.
+
+---
+## Author
+
+Hanna Melek
+
+GitHub: https://github.com/hannamelek
