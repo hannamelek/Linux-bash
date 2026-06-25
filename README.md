@@ -167,13 +167,14 @@ Generated a consensus sequence from multiple aligned DNA sequences.
 
 ```text
 |-- Day 15,16 -> Bash basics-> navigate directories, ls, cp, mv, cat, head, tail, grep, wc, sort, uniq)
-|Day 17 -> Bash script -> simple file processing 
-Day18 -> ncbi blastp -> what it does, how to run it on NCBI web interface, read output
-Day19 -> Biopython NCBIWWW -> Ran BLAST programmatically using Biopython's NCBIWWW module
-Day20 -> Rosalind -> attempted PROT (protein translation), SUBS (motif finding), CONS (consensus)
+|-- Day 17 -> Bash script -> simple file processing 
+|-- Day18 -> ncbi blastp -> what it does, how to run it on NCBI web interface, read output
+|-- Day19 -> Biopython NCBIWWW -> Ran BLAST programmatically using Biopython's NCBIWWW module
+|-- Day20 -> Rosalind -> attempted PROT (protein translation), SUBS (motif finding), CONS (consensus)
 ```
+---
 
-##Goal
+## Goal
 
 Learn the fundamentals of Linux and Bash for bioinformatics, including file navigation, text processing, and basic task automation through scripting.
 
